@@ -42,15 +42,15 @@ I am an entry-level cybersecurity analyst with a strong interest in digital defe
 - Metasploit (basic)  
 - Linux Terminal  
 - Git & GitHub  
-- **Security Onion (fundamentals)**  
-- **Splunk / SIEM tools (beginner level)**  
+- Security Onion (fundamentals)  
+- Splunk/SIEM tools (beginner level)  
 
 ---
 
 ## 🎓 Certifications
-![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat-square)  
+![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat-square)](https://coursera.org/share/ac3a1a8f2c590f9e943c79981e5d31e9)  
 ![Ethical Hacking & Defense](https://img.shields.io/badge/Ethical-Hacking%20&%20Defense-orange?style=flat-square)  
-![Microsoft Cybersecurity](https://img.shields.io/badge/Microsoft-Cybersecurity-in_progress-yellow?style=flat-square)  
+![Microsoft Cybersecurity](https://img.shields.io/badge/Microsoft-Cybersecurity-yellow?style=flat-square)  
 
 ---
 
