@@ -50,6 +50,30 @@ I am an entry-level cybersecurity analyst with a strong interest in digital defe
 ## 🎓 Certifications
 [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat-square)](https://www.coursera.org/account/accomplishments/specialization/certificate/4OXDU1YFZ9YH)  
 [![Ethical Hacking & Defense](https://img.shields.io/badge/Ethical-Hacking%20&%20Defense-orange?style=flat-square)](https://www.udemy.com/certificate/UC-31f174c1-4ca4-4e70-a4eb-50f6350dca60/)
+
+## 🎓 Virtual Internships & Job Simulations
+
+![Commonwealth Bank](https://img.shields.io/badge/Commonwealth%20Bank-Intro%20to%20Cybersecurity-4b8fea?style=flat-square)(
+![Datacom](https://img.shields.io/badge/Datacom-Cybersecurity%20Operations-0c6db3?style=flat-square)
+![Telstra](https://img.shields.io/badge/Telstra-Cybersecurity%20Simulation-7a00cc?style=flat-square)
+![Mastercard](https://img.shields.io/badge/Mastercard-Cybersecurity%20Simulation-eb001b?style=flat-square)
+![Deloitte](https://img.shields.io/badge/Deloitte-Cyber%20Job%20Simulation-0c9d58?style=flat-square)
+![AIG](https://img.shields.io/badge/AIG-Cybersecurity%20Simulation-0033a0?style=flat-square)
+
+## 🎓 Virtual Internships & Job Simulations
+
+[![Commonwealth Bank](https://img.shields.io/badge/Commonwealth%20Bank-Intro%20to%20Cybersecurity-4b8fea?style=flat-square)](https://tinyurl.com/4dh96j2e)
+
+[![Datacom](https://img.shields.io/badge/Datacom-Cybersecurity%20Operations-0c6db3?style=flat-square)](https://tinyurl.com/26ckpeb8)
+
+[![Telstra](https://img.shields.io/badge/Telstra-Cybersecurity%20Simulation-7a00cc?style=flat-square)](https://tinyurl.com/435rwaa7)
+
+[![Mastercard](https://img.shields.io/badge/Mastercard-Cybersecurity%20Simulation-eb001b?style=flat-square)](https://tinyurl.com/2nbttmrf)
+
+[![Deloitte](https://img.shields.io/badge/Deloitte-Cyber%20Job%20Simulation-0c9d58?style=flat-square)](https://tinyurl.com/4hh9cyed)
+
+[![AIG](https://img.shields.io/badge/AIG-Cybersecurity%20Simulation-0033a0?style=flat-square)](https://tinyurl.com/2n84rm6e)
+
 ## Virtual Internships & Job Simulations:
 -	Commonwealth Introduction to Cybersecurity
 -	Datacom Cybersecurity Operations
