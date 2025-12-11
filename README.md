@@ -75,7 +75,7 @@ I am an entry-level cybersecurity analyst with a strong interest in digital defe
 - **Vulnerability Assessment:** <a href="https://github.com/etanimowo/Vulnerability-Assessment/blob/main/README.md"> Analysing a Vulnerability System for a small business </a> 
 - **Incident Handler Journal:** <a href="https://github.com/etanimowo/Incident-Handler-Journal"> Documenting an incident with an incident handler's journal </a> 
 - **Network Packet:** <a href="https://github.com/etanimowo/Network-Packet/blob/main/README.md"> Capturing network packet </a>  
-- **Cybersecurity Case Studies:** Documented examples of threats, mitigations, and response strategies  
+- **Allow List Update:** <a href="https://github.com/etanimowo/Allow-List-Update/blob/main/README.md"> Updating an Allow List using Python </a>  
 
 ---
 
