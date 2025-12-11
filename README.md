@@ -1,4 +1,8 @@
 # 👋 Hi, I’m Sunday  
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundaytanimowo/)  
+
 Aspiring cybersecurity professional | Ethical hacking & defense | Digital security enthusiast  
 
 ---
