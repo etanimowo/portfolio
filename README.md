@@ -50,6 +50,16 @@ I am an entry-level cybersecurity analyst with a strong interest in digital defe
 ## 🎓 Certifications
 [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat-square)](https://www.coursera.org/account/accomplishments/specialization/certificate/4OXDU1YFZ9YH)  
 [![Ethical Hacking & Defense](https://img.shields.io/badge/Ethical-Hacking%20&%20Defense-orange?style=flat-square)](https://www.udemy.com/certificate/UC-31f174c1-4ca4-4e70-a4eb-50f6350dca60/)
+## Virtual Internships & Job Simulations:
+-	Commonwealth Introduction to Cybersecurity
+-	Datacom Cybersecurity Operations
+- Telstra Cybersecurity Simulation
+-	Mastercard Cybersecurity Job Simulation
+-	Deloitte Cyber Job Simulation
+-	AIG Cybersecurity Job Simulation
+
+
+
 
 ---
 
