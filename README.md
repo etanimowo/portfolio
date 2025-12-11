@@ -72,7 +72,7 @@ I am an entry-level cybersecurity analyst with a strong interest in digital defe
 
 ## 📂 Projects
 - **Least Privelge:** <a href="https://github.com/etanimowo/Least-Privelge/blob/main/README.md"> Applying the principle of least privelge </a> 
-- **Vulnerability Scanning Lab:** Running Nmap scans to detect open ports and potential risks  
+- **Vulnerability Assessment:** <a href="https://github.com/etanimowo/Vulnerability-Assessment/blob/main/README.md"> Analysing a Vulnerability System for a small business </a> 
 - **Basic Web Application Testing:** Using Burp Suite for recon, inspection, and simple exploit demonstrations  
 - **Linux Security Practice:** Hardening a Linux system through user permissions, firewall rules, and log monitoring  
 - **Cybersecurity Case Studies:** Documented examples of threats, mitigations, and response strategies  
