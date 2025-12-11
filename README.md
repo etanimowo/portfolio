@@ -78,7 +78,3 @@ I am an entry-level cybersecurity analyst with a strong interest in digital defe
 - **Allow List Update:** <a href="https://github.com/etanimowo/Allow-List-Update/blob/main/README.md"> Updating an Allow List using Python </a>  
 - **SQL Query** <a href="https://github.com/etanimowo/SQL-Query"> Filtering SQL Queries in company database </a>
 
----
-
-## 📫 Connect with Me
-[GitHub](https://github.com/YourUsername) | [LinkedIn](https://www.linkedin.com/in/YourProfile/) 
