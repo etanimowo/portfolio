@@ -76,7 +76,7 @@ I am an entry-level cybersecurity analyst with a strong interest in digital defe
 - **Incident Handler Journal:** <a href="https://github.com/etanimowo/Incident-Handler-Journal"> Documenting an incident with an incident handler's journal </a> 
 - **Network Packet:** <a href="https://github.com/etanimowo/Network-Packet/blob/main/README.md"> Capturing network packet </a>  
 - **Allow List Update:** <a href="https://github.com/etanimowo/Allow-List-Update/blob/main/README.md"> Updating an Allow List using Python </a>  
-- **SQL Query** <a href="https://github.com/etanimowo/SQL-Query/edit/main/README.md"> Filtering SQL Queries in company database </a>
+- **SQL Query** <https://github.com/etanimowo/SQL-Query"> Filtering SQL Queries in company database </a>
 ---
 
 ## 📫 Connect with Me
