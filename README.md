@@ -48,9 +48,11 @@ I am an entry-level cybersecurity analyst with a strong interest in digital defe
 ---
 
 ## 🎓 Certifications
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat-square)](https://www.coursera.org/account/accomplishments/specialization/certificate/4OXDU1YFZ9YH)  
 ![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-blue?style=flat-square)](https://www.coursera.org/account/accomplishments/specialization/certificate/4OXDU1YFZ9YH)  
 ![Ethical Hacking & Defense](https://img.shields.io/badge/Ethical-Hacking%20&%20Defense-orange?style=flat-square)  
 ![Microsoft Cybersecurity](https://img.shields.io/badge/Microsoft-Cybersecurity-yellow?style=flat-square)  
+
 
 ---
 
