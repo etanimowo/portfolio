@@ -71,7 +71,7 @@ I am an entry-level cybersecurity analyst with a strong interest in digital defe
 ---
 
 ## 📂 Projects
-- **SOC Workbooks and Lookups:**<a href=" ">SOC Workbooks and Lookups Lab</a>
+- **SOC Workbooks and Lookups:**<a href="https://github.com/etanimowo/SOC-Workbooks-and-Lookups-Lab">SOC Workbooks and Lookups Lab</a>
 - **Alert Reporting:**<a href="https://github.com/etanimowo/Alert-Reporting-Lab">Alert Reporting – TryHackMe Lab</a>
 - **Alert Triage:**<a href="https://github.com/etanimowo/Alert-Triage-Lab">Alert Triage Lab – TryHackMe (SOC Operations)</a>
 - **Least Privelge:** <a href="https://github.com/etanimowo/Least-Privelge/blob/main/README.md"> Applying the principle of least privelge </a> 
