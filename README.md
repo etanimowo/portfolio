@@ -71,6 +71,7 @@ I am an entry-level cybersecurity analyst with a strong interest in digital defe
 ---
 
 ## 📂 Projects
+- **Alert Triage:**<a href="   >Alert Triage Lab – TryHackMe (SOC Operations)</a>
 - **Least Privelge:** <a href="https://github.com/etanimowo/Least-Privelge/blob/main/README.md"> Applying the principle of least privelge </a> 
 - **Vulnerability Assessment:** <a href="https://github.com/etanimowo/Vulnerability-Assessment/blob/main/README.md"> Analysing a Vulnerability System for a small business </a> 
 - **Incident Handler Journal:** <a href="https://github.com/etanimowo/Incident-Handler-Journal"> Documenting an incident with an incident handler's journal </a> 
