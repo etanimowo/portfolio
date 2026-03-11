@@ -5,7 +5,6 @@
 
 Aspiring SOC Analyst | Threat Detection | Blue Team | Security Monitoring
 
-
 ---
 
 ## 📌 About Me
@@ -97,13 +96,18 @@ I actively practice through SOC labs, SIEM tools, network traffic analysis, and 
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
+### 🚨 SOC Windows Brute Force Attack Investigation
+Investigation of a **Windows brute-force login attack** within a simulated SOC environment. The project focuses on identifying unauthorized login attempts, analyzing logs, and understanding attacker behavior.
+
+**Skills practiced**
+- Windows Event Log analysis
+- Brute-force attack detection
+- Security investigation techniques
+- Log correlation
+- Incident documentation
+
+Repository: `SOC-Windows-Brute-Force-Attack-Investigation`
+
 - **Detecting a Windows RDP Brute Force Attack:** <a href="https://github.com/etanimowo/SOC-Windows-Brute-Force-Attack-Investigation">Detecting a Windows RDP Brute Force Attack</a>
-- **SOC Workbooks and Lookups:**<a href="https://github.com/etanimowo/SOC-Workbooks-and-Lookups-Lab">SOC Workbooks and Lookups Lab</a>
-- **Alert Reporting:** <a href="https://github.com/etanimowo/Alert-Reporting-Lab">Alert Reporting – TryHackMe Lab</a>
-- **Alert Triage:** <a href="https://github.com/etanimowo/Alert-Triage-Lab">Alert Triage Lab – TryHackMe (SOC Operations)</a>
-- **Vulnerability Assessment:** <a href="https://github.com/etanimowo/Vulnerability-Assessment/blob/main/README.md"> Analysing a Vulnerability System for a small business </a> 
-- **Incident Handler Journal:** <a href="https://github.com/etanimowo/Incident-Handler-Journal"> Documenting an incident with an incident handler's journal </a> 
-- **Network Packet:** <a href="https://github.com/etanimowo/Network-Packet/blob/main/README.md"> Capturing network packet </a>  
-- **SQL Query** <a href="https://github.com/etanimowo/SQL-Query"> Filtering SQL Queries in company database </a>
 
