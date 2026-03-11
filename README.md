@@ -3,47 +3,75 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sundaytanimowo/)  
 
-Aspiring cybersecurity professional | Ethical hacking & defense | Digital security enthusiast  
+Aspiring SOC Analyst | Threat Detection | Blue Team | Security Monitoring
+
 
 ---
 
 ## 📌 About Me
-I am an entry-level cybersecurity analyst with a strong interest in digital defense, ethical hacking, and threat detection. I focus on building practical, hands-on skills to strengthen system security, identify vulnerabilities, and improve overall cyber resilience.
+I am an aspiring Security Operations Center (SOC) Analyst focused on threat detection, log analysis, and incident response. I am building hands-on experience through cybersecurity labs, monitoring tools, and practical investigations.
+
+My goal is to understand attacker behavior, detect suspicious activity, and help strengthen organizational security through defensive security practices and effective monitoring.
+
+I actively practice through SOC labs, SIEM tools, network traffic analysis, and threat detection exercises while working toward industry-recognized cybersecurity certifications.
 
 ---
 
-## 🎯 Objectives
-- Build a strong foundation in cybersecurity principles, tools, and best practices  
-- Gain hands-on experience through labs, real-world scenarios, and security-focused projects  
-- Develop practical skills in ethical hacking, system hardening, and basic defensive operations  
-- Strengthen knowledge of SOC environments, incident response, and threat identification  
-- Prepare for entry-level cybersecurity roles while completing industry-recognized certifications  
+## 🔍 Areas of Interest
+
+- Security Operations Center (SOC)
+- Threat Detection & Threat Hunting
+- SIEM Monitoring & Log Analysis
+- Incident Response
+- Network Traffic Analysis
+- Blue Team Security
+- Vulnerability Assessment
 
 ---
 
-## 🛠 Skills
-- Vulnerability assessment  
-- Threat analysis & detection  
-- Network security fundamentals  
-- Incident response basics  
-- Security documentation & reporting  
-- SIEM monitoring concepts  
-- Ethical hacking techniques  
-- Linux & command-line operations  
+## 🛠 Technical Skills
+
+### Security Operations
+- Log analysis
+- Alert triage
+- Threat detection
+- Basic threat hunting
+- Incident response fundamentals
+- Security investigations
+- Security documentation & reporting
+
+### Networking
+- TCP/IP fundamentals
+- Network traffic analysis
+- Packet inspection
+
+### Systems
+- Linux fundamentals
+- Command-line operations
+- System security basics
 
 ---
 
-## 🔧 Tools
-- Kali Linux  
-- Wireshark  
-- Burp Suite
+## 🔧 Tools & Technologies
+
+### Security Monitoring
+- Splunk (SIEM basics)
+- Security Onion
+- ELK Stack (learning)
+
+### Network Analysis
+- Wireshark
+- tcpdump
+
+### Security Testing
+- Nmap
 - Nessus
-- Nmap  
-- Metasploit (basic)  
-- Linux Terminal  
-- Git & GitHub  
-- Security Onion (fundamentals)  
-- Splunk/SIEM tools (beginner level)  
+- Burp Suite
+- Metasploit (basic)
+
+### Operating Systems
+- Kali Linux
+- Ubuntu / Linux
 
 ---
 
@@ -67,10 +95,10 @@ I am an entry-level cybersecurity analyst with a strong interest in digital defe
 
 [![AIG](https://img.shields.io/badge/AIG-Cybersecurity%20Simulation-0033a0?style=flat-square)](https://tinyurl.com/2n84rm6e)
 
-
 ---
 
 ## 📂 Projects
+- **Detecting a Windows RDP Brute Force Attack:**<a href="https://github.com/etanimowo/SOC-Workbooks-and-Lookups-Lab">Detecting a Windows RDP Brute Force Attack</a>
 - **SOC Workbooks and Lookups:**<a href="https://github.com/etanimowo/SOC-Workbooks-and-Lookups-Lab">SOC Workbooks and Lookups Lab</a>
 - **Alert Reporting:** <a href="https://github.com/etanimowo/Alert-Reporting-Lab">Alert Reporting – TryHackMe Lab</a>
 - **Alert Triage:** <a href="https://github.com/etanimowo/Alert-Triage-Lab">Alert Triage Lab – TryHackMe (SOC Operations)</a>
