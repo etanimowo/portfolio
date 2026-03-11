@@ -109,5 +109,3 @@ Investigation of a **Windows brute-force login attack** within a simulated SOC e
 
 Repository: <a href="https://github.com/etanimowo/SOC-Windows-Brute-Force-Attack-Investigation">Detecting a Windows RDP Brute Force Attack</a>
 
-- **Detecting a Windows RDP Brute Force Attack:** <a href="https://github.com/etanimowo/SOC-Windows-Brute-Force-Attack-Investigation">Detecting a Windows RDP Brute Force Attack</a>
-
